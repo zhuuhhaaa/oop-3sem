@@ -1,0 +1,35 @@
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.exe.config
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+//mac/Home/Desktop/ЛАБЫ/ООП/2laba/2laba/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.pdb
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.exe.config
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+//Mac/Home/Desktop/ЛАБЫ/ООП/ConsoleApp2/ConsoleApp2/obj/Debug/ConsoleApp2.pdb
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe.config
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+/Users/macbook/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.pdb
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe.config
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+//Mac/Home/Desktop/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe.config
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.exe
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/bin/Debug/ConsoleApp2.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.exe
+/Applications/УЧЁБА/ЛАБЫ/ООП/2 ЛАБА/ConsoleApp2/obj/Debug/ConsoleApp2.pdb

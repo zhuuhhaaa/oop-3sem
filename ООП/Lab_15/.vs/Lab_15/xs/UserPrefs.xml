@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{ECB04868-D539-4EB1-A7F6-AE49BE469844}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab_15/Methods.cs">
+    <Files>
+      <File FileName="Lab_15/Methods.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab__15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

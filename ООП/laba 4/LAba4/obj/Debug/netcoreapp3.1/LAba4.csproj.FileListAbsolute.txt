@@ -1,0 +1,26 @@
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/bin/Debug/netcoreapp3.1/LAba4.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/bin/Debug/netcoreapp3.1/LAba4.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/bin/Debug/netcoreapp3.1/LAba4.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/bin/Debug/netcoreapp3.1/LAba4.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/bin/Debug/netcoreapp3.1/LAba4.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/LAba4/LAba4/obj/Debug/netcoreapp3.1/LAba4.genruntimeconfig.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/bin/Debug/netcoreapp3.1/LAba4.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/bin/Debug/netcoreapp3.1/LAba4.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/bin/Debug/netcoreapp3.1/LAba4.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/bin/Debug/netcoreapp3.1/LAba4.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/bin/Debug/netcoreapp3.1/LAba4.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 4/LAba4/obj/Debug/netcoreapp3.1/LAba4.genruntimeconfig.cache

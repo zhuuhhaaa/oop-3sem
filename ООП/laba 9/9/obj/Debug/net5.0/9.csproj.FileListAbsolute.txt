@@ -1,0 +1,30 @@
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/9.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/9.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/9.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/ref/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/bin/Debug/net5.0/9.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/ref/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/9laba/9/obj/Debug/net5.0/9.genruntimeconfig.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/ref/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/9.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/9.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/9.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/ref/9.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/bin/Debug/net5.0/9.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 9/9/obj/Debug/net5.0/9.genruntimeconfig.cache

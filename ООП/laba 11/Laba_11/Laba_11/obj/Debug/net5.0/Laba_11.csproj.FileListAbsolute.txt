@@ -1,0 +1,15 @@
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/Laba_11.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/Laba_11.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/Laba_11.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/Laba_11.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/ref/Laba_11.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/bin/Debug/net5.0/Laba_11.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/ref/Laba_11.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 11/Laba_11/Laba_11/obj/Debug/net5.0/Laba_11.genruntimeconfig.cache

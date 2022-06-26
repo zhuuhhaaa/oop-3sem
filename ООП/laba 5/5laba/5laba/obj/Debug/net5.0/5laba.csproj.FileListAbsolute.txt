@@ -1,0 +1,15 @@
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/5laba.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/5laba.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/5laba.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/5laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/ref/5laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/bin/Debug/net5.0/5laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/ref/5laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 5/5laba/5laba/obj/Debug/net5.0/5laba.genruntimeconfig.cache

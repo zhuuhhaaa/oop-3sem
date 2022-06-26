@@ -1,0 +1,15 @@
+Namespace.ClassName: Lab_12.TestClass
+Конструкторы: 
+	.ctor
+Поля: 
+	num
+	str
+Свойства: 
+Методы: 
+	Hi
+	Clone
+	GetType
+	ToString
+	Equals
+	GetHashCode
+parameters	11

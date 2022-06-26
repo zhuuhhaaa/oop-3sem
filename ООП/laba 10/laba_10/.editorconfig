@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1010: Также необходимо реализовать универсальный интерфейс
+dotnet_diagnostic.CA1010.severity = suggestion

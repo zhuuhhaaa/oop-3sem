@@ -1,0 +1,30 @@
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/3laba.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/3laba.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/3laba.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/ref/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/bin/Release/net5.0/3laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/ref/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.genruntimeconfig.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/3laba/3laba/obj/Release/net5.0/3laba.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/3laba.deps.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/3laba.runtimeconfig.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/3laba.runtimeconfig.dev.json
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/ref/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/bin/Release/net5.0/3laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.csproj.AssemblyReference.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.AssemblyInfoInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.AssemblyInfo.cs
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.csproj.CoreCompileInputs.cache
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/ref/3laba.dll
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.pdb
+/Applications/УЧЁБА/ЛАБЫ/ООП/laba 3/3laba/obj/Release/net5.0/3laba.genruntimeconfig.cache
